@@ -1,2 +1,6 @@
 # gitflow-demo1
-Feature Change Two
+<<<<<<< HEAD
+Status: Feature One
+=======
+Status: Feature Two
+>>>>>>> feature/change-two
